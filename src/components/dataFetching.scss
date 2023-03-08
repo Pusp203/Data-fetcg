@@ -1,0 +1,15 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.container {
+  display: flex;
+  flex-direction: row;
+
+  .post-details {
+    //  border: 1px solid red;
+    //  border-radius: 10px;
+    padding: 2rem;
+  }
+}
